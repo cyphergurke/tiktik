@@ -1,10 +1,4 @@
-
-
-https://www.youtube.com/watch?v=CcBHZ0t2Qwc
-
-25.7. 19h
-https://youtu.be/CcBHZ0t2Qwc?t=7586
-
+ 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
